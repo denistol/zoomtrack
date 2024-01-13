@@ -1,0 +1,14 @@
+{
+  "name": "zoomtrack",
+  "version": "1.0.0",
+  "author": "Denys Tol",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "npx electron-builder build"
+  },
+  "devDependencies": {
+    "electron": "^15.0.0"
+  },
+  "license": "MIT"
+}
