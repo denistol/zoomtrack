@@ -11,7 +11,6 @@ A simple application to track Zoom meeting time throughout the day.
 </div>
 
 
-
 ## Features
 
 - Tracks the time spent in Zoom meetings.
@@ -19,10 +18,12 @@ A simple application to track Zoom meeting time throughout the day.
 
 
 
-
 ## Screenshots
 
 ![Main Window](screenshot.png)
+
+## Downloads
+- Mac os (Arm 12.5+) [Zip](https://mega.nz/folder/4KFWmBaa#rkwpRoDtkdrbDziqWh89-g)
 
 ## Installation
 
