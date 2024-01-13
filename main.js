@@ -87,7 +87,7 @@ const updateTrayMenu = (app) => {
     });
 
     menuData.unshift({ type: 'separator' });
-    menuData.unshift({ label: `☎️ Today meetings: ${formatMS(totalToday)}` });
+    menuData.unshift({ label: `Today meetings: ${formatMS(totalToday)}` });
   }
   menuData.push({ type: 'separator' });
   menuData.push({
